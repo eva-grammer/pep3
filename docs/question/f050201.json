@@ -160,7 +160,7 @@
       "word": "island",
       "eUYinBiao": "[ˈaɪlənd]",
       "uSAYinBiao": "[ˈaɪlənd]",
-      "title": "\n     n. 岛，岛屿；岛状物，孤立体；脑岛，胰岛\n     v. 使成岛（状），使孤立\n     【名】 （Island）（英）艾兰（人名）\n    ",
+      "title": "\n     n. 岛，岛屿；岛状物，孤立体；脑岛，胰岛",
       "oldtitle": null
     },
     {
@@ -168,20 +168,20 @@
       "eUYinBiao": "[ˈɔːlweɪz]",
       "uSAYinBiao": "[ˈɔːlweɪz]",
       "title": "总是",
-      "oldtitle": "\n     adv. 总是，每次都是；一直，长久以来；永远；老是，一再；总还有（表示有另一种可能）\n    "
+      "oldtitle": "\n     adv. 总是，每次都是；一直，长久以来；永远；"
     },
     {
       "word": "cave",
       "eUYinBiao": "[keɪv]",
       "uSAYinBiao": "[keɪv]",
-      "title": "\n     n. 洞穴，山洞；地窖\n     v. 洞穴探险；（在压力下）屈服，屈从；挖洞；塌落\n     int. \u003C英，俚\u003E当心！\n     【名】 （Cave）（美、爱）凯夫（人名）\n    ",
+      "title": "\n     n. 洞穴，山洞；地窖\n     v. 洞穴探险；（在压力下）屈服，屈从；挖洞；塌落 ",
       "oldtitle": null
     },
     {
       "word": "win",
       "eUYinBiao": "[wɪn]",
       "uSAYinBiao": "[wɪn]",
-      "title": "\n     v. （在战斗、比赛、游戏等中）赢，获胜；赢得（奖品等）；通过努力得到（某物）；为……赢得，使……获得；采（矿）；晾（干草）\n     n. （在比赛、竞赛等中的）胜利\n     【名】 （Win）（德、荷、缅）温，（英）温（女子教名 Winifred 的昵称）（人名）\n    ",
+      "title": "\n     v. 赢，获胜；赢得（奖品等）；通过努力得到（某物）；为……赢得，使……获得；采（矿）；晾（干草）\n     n. （在比赛、竞赛等中的）胜利",
       "oldtitle": null
     }
   ],
@@ -243,7 +243,7 @@
     },
     {
       "title": "我们一点钟结束上午的课。",
-      "answer": "We finish class at 1 o\u0027clock.",
+      "answer": "We finish class at 1 o'clock.",
       "describe": null
     },
     {
@@ -251,6 +251,26 @@
       "answer": "What do you do on the weekend?",
       "describe": null
     },
+    {
+        "title": "你什么时候起床?",
+        "answer": "When do you get up?",
+        "describe": null
+      },
+      {
+        "title": "她什么时候吃早饭?",
+        "answer": "When does she eat breakfast?",
+        "describe": null
+      },
+      {
+        "title": "你们什么时候做早操?",
+        "answer": "When do you do morning exercises?",
+        "describe": null
+      },
+      {
+        "title": "他们什么时候去上学?",
+        "answer": "When do they go to school?",
+        "describe": null
+      },
     {
       "title": "我经常看电视，也常和我爸爸一起打乒乓球。",
       "answer": "I often watch TV and play ping-pong with my father.",
